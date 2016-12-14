@@ -1,7 +1,7 @@
 import user from './user';
-import question from './question';
+import game from './game';
 
 export default {
   user,
-  question
+  game
 }
